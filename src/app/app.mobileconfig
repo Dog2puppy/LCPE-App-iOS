@@ -23,7 +23,7 @@
                    <key>Precomposed</key>
                    <true/>
                    <key>URL</key>
-                   <string>http://legocraftpe.github.io/iOS_LCPE-App</string>
+                   <string>http://legocraftpe.github.io/LCPE-App-iOS</string>
             </dict>
     </array>
     <key>PayloadDescription</key>
